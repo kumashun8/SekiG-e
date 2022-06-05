@@ -1,0 +1,43 @@
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe.config
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\bin\Debug\SekiG@e.pdb
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csprojResolveAssemblyReference.cache
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form1.resources
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Properties.Resources.resources
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csproj.GenerateResource.Cache
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG@e.exe
+c:\users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG@e.pdb
+C:\Users\隼\documents\visual studio 2015\Projects\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form2.resources
+F:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe.config
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.exe
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.pdb
+F:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe
+F:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.pdb
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csprojResolveAssemblyReference.cache
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form1.resources
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form2.resources
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Properties.Resources.resources
+F:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csproj.GenerateResource.Cache
+G:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe.config
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.exe
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.pdb
+G:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe
+G:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.pdb
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csprojResolveAssemblyReference.cache
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form1.resources
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form2.resources
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Properties.Resources.resources
+G:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csproj.GenerateResource.Cache
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe.config
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG@e.exe
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG@e.pdb
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\bin\Debug\SekiG@e.pdb
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csprojResolveAssemblyReference.cache
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form1.resources
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Form2.resources
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG_e.Properties.Resources.resources
+C:\Users\隼\Desktop\SekiG@e\SekiG@e\obj\Debug\SekiG@e.csproj.GenerateResource.Cache
+D:\SekiG@e\SekiG@e\bin\Debug\SekiG@e.exe.config
+D:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.exe
+D:\SekiG@e\SekiG@e\obj\Debug\SekiG@e.pdb
